@@ -1,3 +1,9 @@
+/*
+ * File: event_handlers.c
+ * Auth: Elysée NIYIBIZI
+ *
+ */
+
 #include "maze.h"
 
 /**
