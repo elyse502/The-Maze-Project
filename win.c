@@ -1,3 +1,9 @@
+/*
+ * File: win.c
+ * Auth: Elysée NIYIBIZI
+ *
+ */
+
 #include "maze.h"
 
 /**
