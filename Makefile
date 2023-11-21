@@ -2,7 +2,7 @@
 CC=gcc
 
 # Flags to create object files with
-CFLAGS=-Wall -Werror -Wextra -pedantic
+CFLAGS=-g -Wall -Werror -Wextra -pedantic
 # Flags to link the SDL2 library
 SDL_FLAGS=-I/usr/local/include/SDL2 -L/usr/lib/x86_64-linux-gnu -lSDL2
 
