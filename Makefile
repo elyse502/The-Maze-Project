@@ -4,7 +4,7 @@ CC=gcc
 # Flags to create object files with
 CFLAGS=-g -Wall -Werror -Wextra -pedantic
 # Flags to link the SDL2 library
-SDL_FLAGS=-I/usr/local/include/SDL2 -L/usr/lib/x86_64-linux-gnu -lSDL2
+SDL_FLAGS=-I/usr/local/include/SDL2 -L/usr/lib/x86_64-linux-gnu -lSDL2 -lm
 
 # All C program files
 SRC=create_maze.c create_world.c dist_checks.c draw.c event_handlers.c free_stuff.c init_instance.c main_maze.c movement.c win.c
