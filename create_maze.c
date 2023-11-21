@@ -31,8 +31,7 @@ size_t get_line_count(char *file_string)
 	{
 		lines++;
 	}
-
-    	fclose(maze_file);
+	fclose(maze_file);
 	free(line);
 
 	return lines;
