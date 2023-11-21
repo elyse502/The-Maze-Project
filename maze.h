@@ -1,5 +1,13 @@
 #ifndef MAZE_H
 #define MAZE_H
+
+/*
+ * File: maze.h
+ * Auth: Elysée NIYIBIZI
+ * Desc: Header file containing declarations for all functions
+ *       used my whole Program.
+ */
+
 #include <SDL2/SDL.h>
 #include <stdio.h>
 #include <math.h>
