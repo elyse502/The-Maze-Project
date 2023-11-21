@@ -1,3 +1,9 @@
+/*
+ * File: movement.c
+ * Auth: Elysée NIYIBIZI
+ *
+ */
+
 #include "maze.h"
 
 /**
