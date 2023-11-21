@@ -24,7 +24,7 @@ size_t get_line_count(char *file_string)
 	if (maze_file == NULL)
 	{
 		fprintf(stderr, "File does not exist\n");
-		return 0;
+		return (0);
 	}
 
 	while ((read = getline(&line, &line_len, maze_file)) != -1)
@@ -34,7 +34,7 @@ size_t get_line_count(char *file_string)
 	fclose(maze_file);
 	free(line);
 
-	return lines;
+	return (lines);
 }
 
 /**
