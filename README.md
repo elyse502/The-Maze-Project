@@ -59,7 +59,7 @@ Currently the player's starting position and the end goal position of the maze c
 
 When you have found the end of the maze you will either move, rather abruptly, to the next maze or the game will exit and you will be greeted with a win message in your console.
 
-![Screenshot from 2023-11-21 10-31-22](https://github.com/elyse502/The-Maze/assets/125453474/46955708-3975-4022-a67c-cfed42a1768d)
+![Screenshot from 2023-11-21 11-05-21](https://github.com/elyse502/The-Maze/assets/125453474/cebe1f39-3694-4f1f-8c2b-5daf152e24ce)
 
 ## Creating a Maze
 The files in the `maps/` directory provide examples of the file format for a maze to work with this game. The different characters in the file represent different colored walls, the floor, the player position, or the position of the end goal.
