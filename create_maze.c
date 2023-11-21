@@ -14,30 +14,28 @@
 
 size_t get_line_count(char *file_string)
 {
-    FILE *maze_file;
-    char *line = NULL;  // Initialize to NULL
-    size_t lines = 0;
-    size_t line_len = 0;  // Initialize to 0
-    ssize_t read;
+	FILE *maze_file;
+	char *line = NULL;
+	size_t lines = 0;
+	size_t line_len = 0;
+	ssize_t read;
 
-    maze_file = fopen(file_string, "r");
-    if (maze_file == NULL)
-    {
-        fprintf(stderr, "File does not exist\n");
-        return 0;
-    }
+	maze_file = fopen(file_string, "r");
+	if (maze_file == NULL)
+	{
+		fprintf(stderr, "File does not exist\n");
+		return 0;
+	}
 
-    // Read lines until the end of the file
-    while ((read = getline(&line, &line_len, maze_file)) != -1)
-    {
-        lines++;
-    }
+	while ((read = getline(&line, &line_len, maze_file)) != -1)
+	{
+		lines++;
+	}
 
-    // Cleanup: Close the file and free allocated memory
-    fclose(maze_file);
-    free(line);
+    	fclose(maze_file);
+	free(line);
 
-    return lines;
+	return lines;
 }
 
 /**
