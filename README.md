@@ -98,6 +98,9 @@ In the image above the player starts 2 spaces in from the top left corner, and t
 - [pikuma.com](https://pikuma.com/courses/raycasting-engine-tutorial-algorithm-javascript)
 - [3DSage/OpenGL-Raycaster](https://www.youtube.com/watch?v=gYRrGTC7GtA)
 
+## Demo
+[![The Maze Demo](https://github.com/elyse502/The-Maze/assets/125453474/f06c5ca5-5463-4e6c-8bb7-ab34f0a00fa5)](https://youtu.be/MLKPI4e5RTE)
+
 <p align="center">
 <b align="center">📍This project is still a work in progress more detail on the project will be available in the future🍿📺🍿</b>
 
