@@ -20,7 +20,7 @@ RM=rm
 # CFLAGS will only be used when creating object files
 # SDL_FLAGS includes necessary libraries to link
 all: $(OBJ)
-	$(CC) $(SDL_FLAGS) $(OBJ) -o $(NAME)
+	$(CC) $(OBJ) -o $(NAME) $(SDL_FLAGS)
 
 # Remove all Emacs temp files (~)
 clean:
