@@ -1,3 +1,9 @@
+/*
+ * File: free_stuff.c
+ * Auth: Elysée NIYIBIZI
+ *
+ */
+
 #include "maze.h"
 
 /**
