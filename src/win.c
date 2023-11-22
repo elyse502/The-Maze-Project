@@ -4,7 +4,7 @@
  *
  */
 
-#include "maze.h"
+#include "../maze.h"
 
 /**
  * print_win - Print a win message win player finishes the game
