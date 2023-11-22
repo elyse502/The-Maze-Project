@@ -4,7 +4,7 @@
  *
  */
 
-#include "maze.h"
+#include "../maze.h"
 
 /**
  * check_ray_dir - Which direction is the ray being cast
