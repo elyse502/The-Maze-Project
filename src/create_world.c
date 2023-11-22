@@ -1,6 +1,6 @@
 /*
  * File: create_world.c
- * Auth: Elysée NIYIBIZI1
+ * Auth: Elysée NIYIBIZI
  *
  */
 
