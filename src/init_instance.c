@@ -4,7 +4,7 @@
  *
  */
 
-#include "maze.h"
+#include "../maze.h"
 
 /**
  * init_instance - Initialize an SDL_Instance w/ a window & renderer
