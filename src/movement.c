@@ -4,7 +4,7 @@
  *
  */
 
-#include "maze.h"
+#include "../maze.h"
 
 /**
  * rotate - Rotate the camera left/right
