@@ -4,7 +4,7 @@
  *
  */
 
-#include "maze.h"
+#include "../maze.h"
 
 /**
  * check_key_release_events - Check for what key was released
