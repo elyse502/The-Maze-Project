@@ -4,7 +4,7 @@
  *
  */
 
-#include "maze.h"
+#include "../maze.h"
 
 level *build_world_from_args(int num_of_lvls, char *level_files[])
 {
