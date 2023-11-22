@@ -7,7 +7,7 @@ CFLAGS=-g -Wall -Werror -Wextra -pedantic
 SDL_FLAGS=-I/usr/local/include/SDL2 -L/usr/lib/x86_64-linux-gnu -lSDL2 -lm
 
 # All C program files
-SRC=create_maze.c create_world.c dist_checks.c draw.c event_handlers.c free_stuff.c init_instance.c main_maze.c movement.c win.c
+SRC=./src/create_maze.c ./src/create_world.c ./src/dist_checks.c ./src/draw.c ./src/event_handlers.c ./src/free_stuff.c ./src/init_instance.c ./src/main_maze.c ./src/movement.c ./src/win.c
 # The names of all object files
 OBJ=$(SRC:.c=.o)
 # Executable name
