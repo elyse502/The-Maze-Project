@@ -29,7 +29,7 @@ git clone https://github.com/elyse502/The-Maze-Project.git
 
 Compile all .c files in the maze directory:
 ```groovy
-elysee_niyibizi@pc:~/maze$ gcc -g -Wall -Werror -Wextra -pedantic -I/usr/local/include/SDL2 *.c -o maze -L/usr/lib/x86_64-linux-gnu -lSDL2 -lm
+elysee_niyibizi@pc:~/maze$ gcc -g -Wall -Werror -Wextra -pedantic -I/usr/local/include/SDL2 ./src/*.c -o maze -L/usr/lib/x86_64-linux-gnu -lSDL2 -lm
 ```
 Alternatively, just use the make command:
 ```sh
