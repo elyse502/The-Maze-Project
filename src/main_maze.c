@@ -4,7 +4,7 @@
  *
  */
 
-#include "maze.h"
+#include "../maze.h"
 
 /**
  * main - The main function to run the maze game
