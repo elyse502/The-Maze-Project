@@ -86,9 +86,6 @@ In the image above the player starts 2 spaces in from the top left corner, and t
 ## Flowchart
 ![The Maze Flow Chart](https://i.imgur.com/t0MxNni.png)
 
-## Author :black_nib:
-1. _[NIYIBIZI Elysée](https://linktr.ee/niyibizi_elysee) | [Github](https://github.com/elyse502) | [Linkedin](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) | [Twitter](https://twitter.com/Niyibizi_Elyse)._
-
 ## Reference
 - [lazyfoo](http://lazyfoo.net/tutorials/SDL/index.php#Event%20Driven%20Programming)
 - [geeksforgeeks](https://www.geeksforgeeks.org/structure-vs-class-in-cpp/)
@@ -105,6 +102,12 @@ In the image above the player starts 2 spaces in from the top left corner, and t
 
 <p align="center">
 <b align="center">📍This project is still a work in progress more detail on the project will be available in the future🍿📺🍿</b>
+
+## Author :black_nib:
+1. _[NIYIBIZI Elysée](https://linktr.ee/niyibizi_elysee) | [Github](https://github.com/elyse502) | [Linkedin](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) | [Twitter](https://twitter.com/Niyibizi_Elyse)._
+
+# Acknowledgements 🙏
+All work contained in this project was completed as part of the curriculum for _Alx-Africa_. _Alx-Africa_ is a remote-based full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit this [link](https://www.alxafrica.com/).
 
 <p align="center">
 <h2 align="center"><img align="center" src="https://github.com/elyse502/AirBnB_clone/assets/125453474/ab3c1e01-2b98-47ae-96b7-37c07c85a2f1" alt="footer" width="150"  height="150"/></h2>
