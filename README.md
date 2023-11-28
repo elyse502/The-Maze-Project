@@ -1,4 +1,4 @@
-# The Maze Project
+# The Maze Project 👨‍🎓
 
 ![8970c3ee63d8149b93e30229276c3f7580ac9447](https://github.com/elyse502/The-Maze-Project/assets/125453474/4efdeb36-7965-4844-9e7d-ae8028561ed8)
 
