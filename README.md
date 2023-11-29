@@ -6,7 +6,7 @@ This project is a first person `3D` maze game. Similar to Wolfenstein or Doom, m
 
 The Maze was written  in C using `SDL2` library. Deveploment was performed using Ubuntu 14.04 LTS - gcc (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4
 
-### About SDL2 
+### About SDL2 💻
 Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog and many Humble Bundle games.
 
 ## Requirements to Play
