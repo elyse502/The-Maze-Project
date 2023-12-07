@@ -106,6 +106,10 @@ In the image above the player starts 2 spaces in from the top left corner, and t
 ## Author :black_nib:
 1. _[NIYIBIZI Elysée](https://linktr.ee/niyibizi_elysee) | [Github](https://github.com/elyse502) | [Linkedin](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) | [Twitter](https://twitter.com/Niyibizi_Elyse)._
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Support🎉
 If you like how I present and document my work do me a favor of giving a Star ✨ to my [Repos](https://github.com/elyse502?tab=repositories) |&&| a [Follow](https://github.com/elyse502) 👥
 
