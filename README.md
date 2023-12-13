@@ -110,14 +110,19 @@ In the image above the player starts 2 spaces in from the top left corner, and t
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+# Acknowledgements 🙏
+All work contained in this project was completed as part of the curriculum for _Alx-Africa_. _Alx-Africa_ is a remote-based full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit this [link](https://www.alxafrica.com/).
+* **ALX staff**: For the help, advice, and resources throughout the project and curriculum.
+* **Cohort 13 and all ALX students**: For friendship, support, and insights over the last year.
+* **YOU**: For reading this documentation and testing out The Game. I hope you enjoyed the ride!
+
 ## Support🎉
 If you like how I present and document my work do me a favor of giving a Star ✨ to my [Repos](https://github.com/elyse502?tab=repositories) |&&| a [Follow](https://github.com/elyse502) 👥
 
-# Acknowledgements 🙏
-All work contained in this project was completed as part of the curriculum for _Alx-Africa_. _Alx-Africa_ is a remote-based full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit this [link](https://www.alxafrica.com/).
-
 <p align="center">
 <h2 align="center"><img align="center" src="https://github.com/elyse502/AirBnB_clone/assets/125453474/ab3c1e01-2b98-47ae-96b7-37c07c85a2f1" alt="footer" width="150"  height="150"/></h2>
+
+
 
 
 
